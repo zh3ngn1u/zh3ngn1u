@@ -39,11 +39,6 @@ I work as a [Solo developer].
 
 ### 📝 Blog posts
 
-You can find my blog posts at [xinca.com](https://xinca.com). I aim to share insights and tutorials on [ReactJS, Python, and more].
-
-📅 Latest post: **[Post Title](#)** — *13 days ago*  
-🗓 Total posts: **33** since *YYYY-MM-DD*
-
 ![Blog Post Chart](https://github-readme-activity-graph.cyclic.app/graph?username=xinxinca&theme=github-dark)
 
 ---
@@ -57,5 +52,3 @@ You can find my blog posts at [xinca.com](https://xinca.com). I aim to share ins
 [![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 
 ---
-
-<sub>Updated: {{DATE}}</sub>
