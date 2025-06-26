@@ -37,12 +37,6 @@ I work as a [Solo developer].
 
 ---
 
-### 📝 Blog posts
-
-![Blog Post Chart](https://github-readme-activity-graph.cyclic.app/graph?username=xinxinca&theme=github-dark)
-
----
-
 ### 🕹️ My down time
 
 [![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](#)
