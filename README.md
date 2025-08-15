@@ -1,4 +1,4 @@
-# 👩‍💻 Zh3ngN1u - 0x1985
+# 👩‍💻 Zh3ngN1u
 
 **Developer**
 
